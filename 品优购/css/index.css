@@ -1,0 +1,414 @@
+/* main部分 */
+.in .w .main{
+    margin-left: 220px;
+    width: 980px;
+    height: 480px;
+}
+.in .w .main .lif ul li {
+    list-style: none;
+    margin: 10px auto;
+    float: left;
+}
+.newflash {
+    float: right;
+    margin-top: 10px;
+    width: 250px;
+}
+.newflash .news {
+    height: 165px;
+    border: 1px solid #d4d4ba;
+}
+.newflash .news .top{
+    height: 30px;
+    border-bottom: 1px dotted #c7c7aa;
+    font-size: 14px;
+    line-height: 30px;
+    padding-left: 15px;
+}
+.newflash .news .top .first{
+    float: left;
+}
+.newflash .news .top a {
+    float: right;
+    padding-right: 15px;
+    color: #666666;
+    text-decoration: none;
+    font-size: 15px;
+    line-height: 30px;
+}
+.news .bot ul li{
+    list-style: none;
+    padding-left: 10px;
+    height: 25px;
+}
+.news .bot ul li span {
+    font-weight: 700;
+}
+.news .bot ul li a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #666666;
+}
+.lifeservice {
+    width: 250px;
+    height: 210px;
+    border-left: 1px solid #d4d4ba;
+}
+.lifeservice ul li {
+    float: left;
+    list-style: none;
+    width: 62.25px;
+    height: 70px;
+    border-right: 1px solid #d4d4ba;
+    border-bottom: 1px solid #d4d4ba;
+    border-top: 0px;
+    border-left: -1px;
+}
+.lifeservice ul li svg {
+    width: 60px;
+    height: 40px;
+    padding-top: 5px;
+    vertical-align: middle;
+}
+.lifeservice ul li .title {
+    font-size: 12px;
+    text-align: center;
+}
+.advertisement img {
+    margin-top: 10px;
+}
+/* main部分end */
+/* recom部分 */
+.recom {
+    height: 175px;
+    background-color: #ebebeb;
+}
+.recom .part_one {
+    float: left;
+    width: 205px;
+    height: 175px;
+    background-color: #5c5251;
+}
+.recom .part_one img {
+    margin-top: 30px;
+    margin-left: 73px;
+}
+.recom .part_one .text {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 8px;
+    color: #ffffff;
+}
+.recom .part_two {
+    height: 175px;
+}
+.recom .part_two ul li{
+    list-style: none;
+    float: left;
+    width: 248.7px;
+}
+.recom .part_two ul li .text {
+    font-size: 16px;
+    color: #333333;
+    margin-top: 30px;
+    margin-left: 18px;
+}
+.recom .part_two ul li .text1 {
+    font-size: 14px;
+    color: #ffffff;
+    width: 80px;
+    background-color: #00a0e8;
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.recom .part_two ul li .text2 {
+    font-size: 12px;
+    color: #717171;
+    width: 80px;
+    margin-top: 4px;
+    margin-left: 18px;
+}
+.recom .part_two ul li .text3 {
+    font-size: 14px;
+    color: #ffffff;
+    width: 80px;
+    background-color: #5fb200;
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.recom .part_two ul li .im {
+    font-size: 14px;
+    width: 60px;
+    height: 15px;
+    margin-left: 18px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 15px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: #5fb200;
+}
+.recom .part_two ul li .text4 {
+    font-size: 14px;
+    color: #ffffff;
+    width: 65px;
+    text-align: center;
+    background-color: red;
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.recom .part_two ul li .im1 {
+    font-size: 14px;
+    width: 60px;
+    height: 15px;
+    margin-left: 18px;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    color: #ffffff;
+    margin-top: 20px;
+    background-color: red;
+}
+.recom .part_two ul li .text5 {
+    font-size: 14px;
+    color: #ffffff;
+    width: 65px;
+    text-align: center;
+    background-color: #0085fb;
+    margin-top: 12px;
+    margin-left: 18px;
+}
+.recom .part_two ul li .im2 {
+    font-size: 14px;
+    width: 60px;
+    height: 15px;
+    margin-left: 18px;
+    text-align: center;
+    line-height: 15px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background-color: #0085fb;
+    color: #ffffff;
+}
+.recom .part_two ul li .go img {
+    float: right;
+    margin-top: -75px;
+    margin-right: 30px;
+}
+.recom .part_two ul li img {
+    float: right;
+    margin-top: -105px;
+    margin-right: 20px;
+}
+/* recom部分end */
+/* floor部分 */
+.floor .one {
+    margin-top: 30px;
+    border-bottom: 2px solid #c81623;
+}
+.floor .to {
+    font-size: 18px;
+    color: red;
+}
+.floor .to ul li {
+    list-style: none;
+    float: left;
+}
+.floor .to ul li .tt {
+    color: red;
+}
+.floor .to ul li a {
+    text-decoration: none;
+    color: #666666;
+    margin: 0 15px;
+}
+.floor .to ul li a:hover {
+    color: red;
+}
+.floor .to ul{
+    float: right;
+    font-size: 12px;
+    color: #333333;
+}
+.floor .mi {
+    width: 1200px;
+    height: 360px;
+}
+.floor .mi ul li{
+    float: left;
+    height: 360px;  
+    list-style: none;
+}
+.floor .mi ul li .part_1 {
+    width: 208px;
+    height: 360px;  
+    background-color: #f9f9f9;
+}
+.floor .mi ul li .part_1 ul li {
+    width: 85px;
+    height: 30px;
+    font-size: 12px;
+    margin-left: 8px;
+    margin-right: 8px;
+    line-height: 30px;
+    text-align: center;
+    border-bottom: 1px solid #d4d4ba;
+}
+.floor .mi ul li .part_1 ul li a {
+    text-decoration: none;
+    color: #333333;
+}
+.floor .mi ul li .part_1 ul li a:hover {
+    color: red;
+}
+.floor .mi ul li .part_1 .po {
+    float: left;
+    height: 330px;
+    width: 208px;
+    height: 260px;
+}
+.floor .mi ul li .part_1 .po .to1 {
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
+    color: #c81623;
+}
+.floor .mi ul li .part_1 .po .to2 {
+    font-size: 18px;
+    text-align: center;
+    color: #c81623;
+    font-size: 12px;
+}
+.floor .mi ul li .part_1 .po img {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.floor .mi ul li .part_2 {
+    width: 330px;
+    height: 360px;  
+    background-color: #aed6d8;
+}
+.floor .mi ul li .part_2 .to3 {
+    font-size: 18px;
+    padding-top: 30px;
+    margin-left: 30px;
+    color: #3d8592;
+}
+.floor .mi ul li .part_2 .to4 {
+    font-size: 16px;
+    margin-left: 30px;
+    color: #3d8592;
+}
+.floor .mi ul li .part_2 .po1 {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.floor .mi ul li .part_2 .po2 {
+    margin-left: 75px;
+    margin-top: -5px;
+}
+.floor .mi ul li .part_2 .pr {
+    margin-left: 150px;
+}
+.floor .mi ul li .part_2 .pr1 {
+    background-color: #f9f9f9;
+    height: 10px;
+    width: 10px;
+    float: left;
+    margin-right: 5px;
+    border-radius: 10px;
+}
+.floor .mi ul li .part_3 {
+    width: 220px;
+    height: 360px;  
+    background-color: #f9f9f9;
+}
+.floor .mi ul li .part_3 a {
+    text-decoration: none;
+}
+.floor .mi ul li .part_3 .part_1 {
+    height: 180px;
+    width: 220px;
+    border-bottom: 1px solid #d4d4ba;
+}
+.floor .mi ul li .part_3 .p_1 {
+    font-size: 16px;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.floor .mi ul li .part_3 .p_2 {
+    font-size: 14px;
+    margin-left: 20px;
+    color: #c81623;
+}
+.floor .mi ul li .part_3 .part_1 img {
+    margin-top: 20px;
+    margin-left: 80px;
+}
+.floor .mi ul li .part_3 .part_1 .pr {
+    margin-top: -1px;
+    margin-left: 60px;
+}
+.floor .mi ul li .part_4 {
+    border-left: 1px solid #d4d4ba;
+    border-right: 1px solid #d4d4ba;
+    border-bottom: 1px solid #d4d4ba;
+    width: 220px;
+    height: 360px;  
+    background-color: #f9f9f9;
+}
+.floor .mi ul li .part_4 a {
+    text-decoration: none;
+    display: block;
+}
+.floor .mi ul li .part_4 .p_1 {
+    font-size: 18px;
+    padding-top: 70px;
+    text-align: center;
+    color: #333333;
+}
+.floor .mi ul li .part_4 .p_2 {
+    color: #c7c7aa;
+    font-size: 16px;
+    text-align: center;
+}
+.floor .mi ul li .part_4 img {
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.floor .mi ul li .part_5 {
+    width: 222px;
+    height: 360px;  
+    background-color: #ffffff;
+    border-right:1px solid #d4d4ba;
+}
+.floor .mi ul li .part_5 a {
+    text-decoration: none;
+}
+.floor .mi ul li .part_5 .part_1 {
+    height: 180px;
+    width: 221px;
+    border-bottom: 1px solid #d4d4ba;
+}
+.floor .mi ul li .part_5 .p_1 {
+    font-size: 16px;
+    color: #333333;
+    padding-top: 30px;
+    margin-left: 20px;
+}
+.floor .mi ul li .part_5 .p_2 {
+    font-size: 14px;
+    margin-left: 20px;
+    color: #c81623;
+}
+.floor .mi ul li .part_5 .part_1 img {
+    margin-top: 19px;
+    margin-left: 65px;
+}
+.floor .mi ul li .part_5 .part_1 .pr {
+    margin-top: -1px;
+    margin-left: 120px;
+    width: 90px;
+}
+/* floor部分end */

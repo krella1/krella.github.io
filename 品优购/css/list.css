@@ -1,0 +1,130 @@
+/* 头部部分 */
+.logo .pi {
+    margin-left: -40px;
+    padding-left: 10px;
+    margin-bottom: 15px;
+    border-left: 1px solid #b1191a;
+}
+.search {
+    margin-left: 50px;
+}
+.w .sk_list ul li {
+    float: left;
+    list-style: none;
+    width: 115px;
+    padding: 0 25px;
+    height: 45px;
+    line-height: 45px;
+    font-weight: 700;
+}
+.w .sk_list ul li a {
+    text-decoration: none;
+    color: #333333;
+}
+.w .sk_list ul li a:hover {
+    color: #b1191a;
+}
+.w .sk_con ul li {
+    float: left;
+    font-size: 14px;
+    list-style: none;
+    margin-left: 50px;
+    height: 45px;
+    line-height: 48px;
+}
+.w .sk_con ul li a {
+    text-decoration: none;
+    color: #333333;
+}
+.w .sk_con ul li a:hover {
+    color: #b1191a;
+}
+/* 头部部分end */
+/* 内容 */
+.sk_container .sk_bd {
+    width: 1200px;
+    height: 460px;
+    margin-top: 25px;
+}
+.sk_container .sk_bd ul li {
+    list-style: none;
+    float: left;
+    width: 285px;
+    margin-right:15px;
+}
+.sk_container .sk_bd ul li a {
+    height: 460px;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid transparent;
+}
+.sk_container .sk_bd ul li a:hover {
+    border: 1px solid red;
+}
+/* 经过时边框抖动可以设置透明边框再进行经过边框设置 */
+/* 多余溢出部分不显示用overflow：hidden解决 */
+.sk_container .sk_bd ul li a .text {
+    margin-top: 1px;
+    font-size: 14px;
+    color: #a3a3a3;
+}
+.sk_container .sk_bd ul li a .text1 {
+    margin-top: 1px;
+    color: red;
+    float: left;
+    font-size: 22px;
+    margin-left: 15px;
+}
+.sk_container .sk_bd ul li a .text2 {
+    float: left;
+    font-size: 14px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-decoration: line-through;
+    color: #a3a3a3;
+}
+.sk_container .sk_bd ul li a .text3 {
+    clear: both;
+    font-size: 14px;
+    color: #a3a3a3;
+    margin-left: 15px;
+    margin-top: 13px;
+    float: left;
+}
+.sk_container .sk_bd ul li a .box {
+    float: left;
+    width: 120px;
+    height: 14px;
+    margin-top: 15px;
+    margin-left: 10px;
+    border-radius: 7px;
+    border: 1px solid red;
+}
+.sk_container .sk_bd ul li a .box .box_t {
+    width: 90px;
+    height: 14px;
+    margin-top: -1px;
+    margin-left: -1px;
+    background-color: red;
+    border-radius: 7px;
+}
+.sk_container .sk_bd ul li a .text4 {
+    font-size: 14px;
+    color: #a3a3a3;
+    margin-left: 15px;
+    margin-top: 8px;
+    float: left;
+}
+
+.sk_container .sk_bd ul li a span {
+    font-size: 14px;
+    color: #b1191a;
+    margin-top: 13px;
+}
+.sk_container .sk_bd ul li a .img1 {
+    width: 290px;
+    height: 50px;
+    display: inline-block;
+    margin-top: 10px;
+}
+/* 内容end */

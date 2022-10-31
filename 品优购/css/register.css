@@ -1,0 +1,98 @@
+.header .w1 {
+    width: 1200px;
+    margin: 0 auto;
+    height: 80px;
+    border-bottom: 2px solid #b1191a;
+
+}
+.header .w1 img{
+    margin-top: 15px;
+}
+.registerarea {
+    height: 540px;
+    border-bottom: 1px solid #dfdfdf;
+}
+.registerarea .top {
+    margin-top: 15px;
+    height: 40px;
+    line-height: 40px;
+    background-color: #ececec;
+}
+.registerarea .top .left {
+    font-size: 18px;
+    margin-left: 10px;
+    float: left;
+}
+.registerarea .top .right {
+    float: right;
+    font-size: 14px;
+    margin-right: 10px;
+}
+.registerarea .top .right a {
+    text-decoration: none;
+    color: #b1191a;
+}
+.registerarea .mid .f_1 {
+    margin-top: 55px;
+    margin-left: 340px;
+    font-size: 14px;
+}
+.registerarea .mid input {
+    height: 35px;
+    width: 240px;
+}
+.registerarea .mid .f_2 {
+    margin-left: 312px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.registerarea .mid .f_3 {
+    margin-left: 326px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.registerarea .mid .f_4 {
+    margin-left: 480px;
+    font-size: 12px;
+    margin-top: 10px;
+    color: #b9b9b9;
+    overflow: hidden;
+}
+.registerarea .mid .f_4 .tr {
+    float: left;
+    height: 12px;
+    line-height: 12px;
+    margin-right: 3px;
+}
+.registerarea .mid .f_4 .bo_1 {
+    float: left;
+    width: 35px;
+    height: 12px;
+    text-align: center;
+    line-height:12px ;
+    background-color: #de1111;
+    color: #ffffff;
+}
+.registerarea .mid .f_4 .bo_2 {
+    float: left;
+    width: 35px;
+    height: 12px;
+    text-align: center;
+    line-height:12px ;
+    background-color: #40b83f;
+    color: #ffffff;
+}
+.registerarea .mid .f_4 .bo_3 {
+    float: left;
+    width: 35px;
+    height: 12px;
+    text-align: center;
+    line-height:12px ;
+    background-color: #f79100;
+    color: #ffffff;
+}
+.registerarea .mid .f_5 {
+    margin-left: 326px;
+    font-size: 14px;
+    margin-top: 20px;
+}
